@@ -1,0 +1,17 @@
+{
+  "name": "hybrid-stylesheets",
+  "version": "0.1.0",
+  "description": "The ultimate, modular CSS-in-JS experience",
+  "main": "src/hss.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "modular",
+    "css",
+    "css-in-js",
+    "precompiler"
+  ],
+  "author": "Joshua Claunch",
+  "license": "MIT"
+}
